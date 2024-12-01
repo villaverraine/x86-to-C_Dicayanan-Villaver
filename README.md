@@ -2,6 +2,10 @@
 
 This project benchmarks and analyzes the performance of matrix operations implemented in both C and x86-64 assembly. Below, you'll find detailed execution time comparisons and a correctness check to validate the outputs.
 
+## Group Members Section XX22:
+1. Isaac Dicayanan
+2. Raine Villaver
+
 ## Execution Time and Analysis
 
 ### 10x10 Matrix
